@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Application Lifecycle</string>
+
+    <string name="button_title">+ 1</string>
+    <string name="button_activity">Go to Another Activity</string>
+    <string name="button_back">Go to Main Activity</string>
 </resources>
